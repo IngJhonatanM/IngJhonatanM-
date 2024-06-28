@@ -1,5 +1,5 @@
 # Hi There 👋🏽​​, I am
-![Jhonatan Mendoza](https://github.com/IngJhonatanM/IngJhonatanM-/assets/118300542/09650a06-de46-4510-a1f3-7569b6eabfca).
+![Jhonatan Mendoza](https://github.com/IngJhonatanM/IngJhonatanM-/assets/118300542/37668d6e-b0b1-42af-a8c8-40b97ad01200)
 
 # About me
 

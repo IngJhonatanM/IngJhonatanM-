@@ -1,12 +1,32 @@
-# Hi There, I am
+# Hi There 🙋🏽‍♂️​, I am
 
-![Jhonatan Mendoza](https://github.com/IngJhonatanM/IngJhonatanM-/assets/118300542/09650a06-de46-4510-a1f3-7569b6eabfca) [^1].
+![Jhonatan Mendoza](https://github.com/IngJhonatanM/IngJhonatanM-/assets/118300542/09650a06-de46-4510-a1f3-7569b6eabfca).
 
 
 # About me
 
-I have 26 years old, I graduated from the Santiago Mariño Polytechnic University in systems engineering career.
+I have 27 years old, I graduated from the Santiago Mariño Polytechnic University 🎓 in systems engineering career.
 
-I have experience, skills & knowledge:
+I development in the next stacks:
+---
+* [![Python][python.com]][python-url]
+* [![Js][js.com]][js-url]
+* [![Laravel][Laravel.com]][Laravel-url]
 
-* Python 
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[python.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[python-url]: https://laravel.com
+[js.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[js-url]: [https://laravel.com](https://developer.mozilla.org/es/docs/Web/JavaScript)

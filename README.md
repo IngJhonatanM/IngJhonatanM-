@@ -13,14 +13,15 @@ my profile Combines the technical skills necessary for the development of secure
 
 I development in the next stacks:
 ---
-* [![Python][python.com]][python-url]
+* [![Python][python.com]][python-url]  |   ![flask][flask-url]
 * [![Js][js.com]][js-url]
 * [![Laravel][Laravel.com]][Laravel-url]
+* ![devshell-url]  | ![pw-url]
 
 <!-- CONTACT -->
 ## Contact
 
-![x][x-url] - [@IngJhonataM](https://x.com/IngJhonataM) - ![email][email-url] - <a href="mailto:jhonatan.m20233@gmail.com">jhonatan.m20233@gmail.com</a> - ![telegram][telegram-url] - <a href="https://t.me/AsistenteIngJm">AsistenteIngJm</a>
+![x][x-url] - [@IngJhonataM](https://x.com/IngJhonataM) - ![email][email-url] - <a href="mailto:jhonatan.m20233@gmail.com">jhonatan.m20233@gmail.com</a> - ![telegram][telegram-url] - <a href="https://t.me/AsistenteIngJm">AsistenteIngJm</a> - ![likend][likend-url] - <a href="https://www.linkedin.com/in/1jhonatan-mendoza"> IngJm</a>
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -36,3 +37,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [x-url]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 [email-url]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [telegram-url]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[flask-url]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[devshell-url]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[likend-url]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[pw-url]: https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+
+
+

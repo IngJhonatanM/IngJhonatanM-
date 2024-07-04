@@ -5,7 +5,7 @@
 
 I have 27 years old, I graduated from the Santiago Mariño Polytechnic University 🎓 in systems engineering 👔💻 career.
 with 3 years of experience in software development⌨️, business process automation⚙️ and vulnerability assessment and penetration testing🕵🏽.
-Throughout my career, I acquired strong skills in the design, development and implementation of computer systems, using programming languages ​​​​such as Python, laravel, batch, and PoweShell
+Throughout my career, I acquired strong skills in the design, development and implementation of computer systems, using programming languages ​​​​such as Python, Laravel, Batch, and PoweShell
 
 my profile Combines the technical skills necessary for the development of secure software and the ability to identify and mitigate security risks in computer systems.
 

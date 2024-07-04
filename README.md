@@ -14,7 +14,6 @@ my profile Combines the technical skills necessary for the development of secure
 I development in the next stacks:
 ---
 * [![Python][python.com]][python-url]  |   ![flask][flask-url]
-* [![Js][js.com]][js-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * ![devshell-url]  | ![pw-url]
 

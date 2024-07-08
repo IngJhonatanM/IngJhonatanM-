@@ -22,8 +22,6 @@ I development in the next stacks:
 
 ![x][x-url] - [@IngJhonataM](https://x.com/IngJhonataM) - ![email][email-url] - <a href="mailto:jhonatan.m20233@gmail.com">jhonatan.m20233@gmail.com</a> - ![telegram][telegram-url] - <a href="https://t.me/AsistenteIngJm">AsistenteIngJm</a> - ![likend][likend-url] - <a href="https://www.linkedin.com/in/1jhonatan-mendoza"> IngJm</a>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->

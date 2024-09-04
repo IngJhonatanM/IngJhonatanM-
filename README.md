@@ -13,7 +13,7 @@ my profile Combines the technical skills necessary for the development of secure
 
 I development in the next stacks:
 ---
-* [![Python][python.com]][python-url]  |   ![flask][flask-url]
+* [![Python][python.com]][python-url]  |   ![flask][flask-url]  |   ![Notebook-url]  |   ![Pandas-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * ![devshell-url]  | ![pw-url]
 * ![goany-url]
@@ -40,5 +40,7 @@ I development in the next stacks:
 [likend-url]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [pw-url]: https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
 [goany-url]: https://img.shields.io/badge/Fortra-goanywhere-%23217160?style=for-the-badge
+[Notebook-url]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[Pandas-url]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 
 
